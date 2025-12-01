@@ -3,6 +3,8 @@ Mind the Gap – WMATA Accessibility Risk
 
 INST414 Project
 
+When an elevator or escalator is out-of-service, riders with mobility needs can unexpectedly disrupt trips (e.g., delays, missed appointments, exorbitant alternatives). At present time, riders must check status reactively, while transit operators are without station-level, forward-looking risk signals. I will develop a risk score that factors in accessibility-related needs for each station/time window (e.g., AM/PM peak periods), indicating the probability of being disrupted (elevator down and/or rail incident) in the next day/shift. Target users for this project include: riders (planning trips), operations (proactive maintenance/alerts), advocates & planners (monitoring equity).
+
 Project Organization
 ------------
 
