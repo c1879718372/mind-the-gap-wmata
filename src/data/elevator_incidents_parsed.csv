@@ -1,0 +1,26 @@
+outage_event_id,unit_name,unit_type,station_code,station_name,location_desc,symptom_desc,start_time,end_time,estimated_rts,duration_minutes
+A03N01_2025-04-28T05:00:00,A03N01,ESCALATOR,A03,"Dupont Circle, Q Street Entrance",Escalator between street and mezzanine,Modernization,2025-04-28T05:00:00,2025-10-10T11:10:56,2025-11-17T23:59:59,237970.9
+A10X03_2025-10-19T23:12:00,A10X03,ESCALATOR,A10,Medical Center,Escalator between street and mezzanine,Service Call,2025-10-19T23:12:00,2025-10-19T23:13:24,2025-10-21T23:59:59,1.4
+B01E03_2025-06-16T05:55:00,B01E03,ESCALATOR,B01,"Gallery Pl-Chinatown, 7th and G Street/Arena Entrance",Escalator between street and mezzanine,Modernization,2025-06-16T05:55:00,2025-10-08T07:05:57,2025-11-14T23:59:59,164231.0
+B01E04_2025-06-16T05:56:00,B01E04,ESCALATOR,B01,"Gallery Pl-Chinatown, 7th and G Street/Arena Entrance",Escalator between street and mezzanine,Modernization,2025-06-16T05:56:00,2025-10-08T07:06:33,2025-11-14T23:59:59,164230.5
+B01W03_2025-10-19T23:33:00,B01W03,ESCALATOR,B01,"Gallery Pl-Chinatown, 9th and G Street Entrance",Escalator between mezzanine and platform to Shady Grove,Preventive Maintenance Inspection,2025-10-19T23:33:00,2025-10-19T23:34:57,2025-10-21T23:59:59,1.9
+B11X06_2025-09-11T00:38:00,B11X06,ELEVATOR,B11,Glenmont,Garage elevator,Modernization,2025-09-11T00:38:00,2025-10-10T09:44:11,2026-01-29T23:59:59,42306.2
+C02E01_2025-10-07T00:26:00,C02E01,ELEVATOR,C02,"McPherson Square, Franklin Square/14th St. Entrance",Elevator between street and mezzanine,Modernization,2025-10-07T00:26:00,2025-10-08T13:26:21,2025-12-16T23:59:59,2220.3
+C05X01_2025-03-31T04:08:00,C05X01,ESCALATOR,C05,Rosslyn,Escalator between mezzanine and upper platform,Modernization,2025-03-31T04:08:00,2025-09-03T07:44:16,2025-10-24T23:59:59,224856.3
+C06X08_2025-10-18T17:42:00,C06X08,ESCALATOR,C06,Arlington Cemetery,Escalator between mezzanine and platform to Franconia-Springfield,Minor Repair,2025-10-18T17:42:00,2025-10-19T20:42:16,2025-10-20T23:59:59,1620.3
+C07E14_2025-06-02T04:51:00,C07E14,ESCALATOR,C07,Pentagon,Escalator between the lower bus platform and the upper platform,Inspection Repair,2025-06-02T04:51:00,2025-10-10T07:24:59,2025-11-03T23:59:59,187354.0
+C07E15_2025-05-27T07:27:00,C07E15,ESCALATOR,C07,Pentagon,Escalator between the lower bus platform and the upper platform,Major Repair,2025-05-27T07:27:00,2025-10-13T18:11:27,2025-11-03T23:59:59,200804.5
+C08X01_2025-07-16T04:14:00,C08X01,ELEVATOR,C08,Pentagon City,"Elevator between street and mezzanine on west side of Hayes street, at The Fashion Center",Modernization,2025-07-16T04:14:00,2025-10-08T13:26:42,2025-10-22T23:59:59,121512.7
+C09X12_2025-10-19T21:30:00,C09X12,ESCALATOR,C09,Crystal City,Escalator between mezzanine and platform to Huntington/Franconia-Springfield,Service Call,2025-10-19T21:30:00,2025-10-19T21:31:56,2025-10-21T23:59:59,1.9
+C10S04_2025-10-19T15:48:00,C10S04,ESCALATOR,C10,"Ronald Reagan Washington National Airport, South Entrance",Escalator between mezzanine and platform to Mt.Vernon Sq/Largo Town Center,Minor Repair,2025-10-19T15:48:00,2025-10-19T17:37:03,2025-10-21T23:59:59,109.0
+D03E09_2025-10-19T14:50:00,D03E09,ESCALATOR,D03,"L'Enfant Plaza, 7th & D St (USDOT Entrance)",Escalator between mezzanine and platform to Blue/Orange Line (escalator closer to Yellow/Green platform),Other,2025-10-19T14:50:00,2025-10-19T14:50:41,2025-10-21T23:59:59,0.7
+D03W02_2025-10-06T04:36:00,D03W02,ESCALATOR,D03,"L'Enfant Plaza, 9th & D St  (L'Enfant Plaza Entrance)",Escalator between street and mezzanine,Modernization,2025-10-06T04:36:00,2026-01-26T23:59:59,2026-01-26T23:59:59,162444.0
+D04X03_2025-10-17T06:32:00,D04X03,ESCALATOR,D04,Federal Center SW,Escalator between street and mezzanine,Minor Repair,2025-10-17T06:32:00,2025-10-18T07:18:06,2025-10-19T23:59:59,1486.1
+E02N03_2025-10-13T15:20:00,E02N03,ESCALATOR,E02,"Shaw-Howard U, 7th and S St. N.W. Entrance",Escalator between mezzanine and platform,Major Repair,2025-10-13T15:20:00,2025-10-15T11:27:50,2025-10-17T23:59:59,2647.8
+E07X01_2025-08-05T12:24:00,E07X01,ESCALATOR,E07,West Hyattsville,Escalator between mezzanine and platform to Greenbelt,Major Repair,2025-08-05T12:24:00,2025-10-17T14:06:11,2025-12-17T23:59:59,105222.2
+E07X03_2025-05-05T02:26:00,E07X03,ESCALATOR,E07,West Hyattsville,Escalator between mezzanine and platform to Branch Ave,Major Repair,2025-05-05T02:26:00,2025-10-18T13:41:36,2025-10-26T23:59:59,239715.6
+E09X04_2025-10-16T09:53:00,E09X04,ELEVATOR,E09,College Park-U of MD,Garage elevator,Major Repair,2025-10-16T09:53:00,2025-10-19T20:23:09,2025-10-31T23:59:59,4950.1
+F02X05_2025-10-19T16:55:00,F02X05,ESCALATOR,F02,Archives-Navy Memorial-Penn Quarter,Escalator between mezzanine and platform,Service Call,2025-10-19T16:55:00,2025-10-19T16:57:24,2025-10-21T23:59:59,2.4
+G02X02_2025-10-19T16:23:00,G02X02,ELEVATOR,G02,Capitol Heights,Elevator between mezzanine and platform,Safety Inspection,2025-10-19T16:23:00,2025-10-19T20:22:09,2025-10-21T23:59:59,239.2
+G04X01_2025-10-18T14:00:00,G04X01,ELEVATOR,G04,Morgan Boulevard,Elevator between mezzanine and platform,Minor Repair,2025-10-18T14:00:00,2025-10-19T07:03:41,2025-10-20T23:59:59,1023.7
+G04X01_2025-10-19T22:55:00,G04X01,ESCALATOR,G04,Morgan Boulevard,Escalator between mezzanine and platform,Service Call,2025-10-19T22:55:00,2025-10-19T22:56:05,2025-10-21T23:59:59,1.1
